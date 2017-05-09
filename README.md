@@ -1,5 +1,11 @@
 # Card Game using React, Redux and Node
 
+## Screenshots
+
+![Picture 1](./screenshots/Picture1.png)
+![Picture 2](./screenshots/Picture2.png)
+![Picture 3](./screenshots/Picture3.png)
+
 ## Requirements
 
 Install `yarn`, read how [here](https://yarnpkg.com/en/docs/install).
